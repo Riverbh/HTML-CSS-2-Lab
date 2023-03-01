@@ -1,0 +1,31 @@
+* {
+    background-color: #DDDDDD;
+    padding: auto;
+    text-align: center;
+
+}
+h1 {
+    color: #525252;
+    background-color: #525252;
+    margin-top: -11px;
+    height: 250px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+div {
+    background-color: #FFFFFF;
+    height: 100vh;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+footer {
+    background-color: #000000;
+    height: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: -20px;
+
+}
